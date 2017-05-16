@@ -1,0 +1,23 @@
+#logo{
+background-color:green; 
+
+float:center;
+
+}
+
+#logoimg{
+
+float:right;
+ background-color:red; 
+
+
+}
+
+
+#buscador{
+
+float:left;
+background-color:orange; 
+
+
+}

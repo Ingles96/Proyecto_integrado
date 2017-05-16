@@ -1,0 +1,42 @@
+header{
+	height: 100px;
+	background-color: yellow;
+}
+
+#logo{
+color:green; 
+position:center;
+
+
+
+}
+
+#logoimg{
+position:left;
+float:left;
+color:red; 
+
+
+}
+
+
+#buscador{
+
+float:right;
+position:right; 
+background-color:orange; 
+
+
+}
+#a123{}
+
+footer{
+	position: fixed;
+    bottom: 0;
+	color:blue;
+	background-color: black;
+	width: 100%;
+}
+.contenido{
+	background-color: pink;
+}
