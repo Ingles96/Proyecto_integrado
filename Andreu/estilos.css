@@ -1,0 +1,49 @@
+header{
+	height: 100px;
+	background-color: yellow;
+}
+
+#logo{
+color:green; 
+text-align:center;
+
+
+
+
+}
+
+#logoimg{
+
+float:left;
+color:red; 
+
+
+}
+
+
+#buscador{
+
+float:right;
+
+
+
+}
+#slide{
+ height:800px;
+ width:1500px;
+ 
+
+
+
+}
+
+footer{
+	
+    bottom: 0;
+	color:blue;
+	background-color: black;
+	width: 100%;
+}
+.contenido{
+	background-color: pink;
+}

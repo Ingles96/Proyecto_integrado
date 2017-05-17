@@ -1,7 +1,23 @@
-#navpersonalizado{
+#logo{
+background-color:green; 
 
-background-color:#F4EDEB : 
-color:white;
+float:center;
+
+}
+
+#logoimg{
+
+float:right;
+ background-color:red; 
+
+
+}
+
+
+#buscador{
+
+float:left;
+background-color:orange; 
 
 
 }
