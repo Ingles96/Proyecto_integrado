@@ -6,9 +6,15 @@ header{
 #logo{
 color:green; 
 text-align:center;
+position: relative;
 
+}
 
-
+#textoCabecera{
+  text-align: center;
+   vertical-align: middle;
+   position: relative;
+   top:50%;
 
 }
 
@@ -44,6 +50,31 @@ footer{
 	background-color: black;
 	width: 100%;
 }
+
+#rsociales{
+float:right;
+
+}
+	#twitter{
+     height:5px ;
+     width:5px;
+	}
+
+	#facebook{
+	 height:5px ;
+     width:5px;
+	}
+
+	#googleplus{
+	 height:5px ;
+     width:5px;
+	}
+
+	#instagram{
+	 height:5px ;
+     width:5px;
+	}
+
 .contenido{
 	background-color: pink;
 }
