@@ -1,0 +1,80 @@
+header{
+	height: 100px;
+	background-color: yellow;
+}
+
+#logo{
+color:green; 
+text-align:center;
+position: relative;
+
+}
+
+#textoCabecera{
+  text-align: center;
+   vertical-align: middle;
+   position: relative;
+   top:50%;
+
+}
+
+#logoimg{
+
+float:left;
+color:red; 
+
+
+}
+
+
+#buscador{
+
+float:right;
+
+
+
+}
+#slide{
+ height:800px;
+ width:1500px;
+ 
+
+
+
+}
+
+footer{
+	
+    bottom: 0;
+	color:blue;
+	background-color: black;
+	width: 100%;
+}
+
+#rsociales{
+float:right;
+
+}
+	#twitter{
+     height:5px ;
+     width:5px;
+	}
+
+	#facebook{
+	 height:5px ;
+     width:5px;
+	}
+
+	#googleplus{
+	 height:5px ;
+     width:5px;
+	}
+
+	#instagram{
+	 height:5px ;
+     width:5px;
+	}
+
+.contenido{
+	background-color: pink;
+}
