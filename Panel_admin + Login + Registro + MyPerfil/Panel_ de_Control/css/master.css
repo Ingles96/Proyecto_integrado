@@ -1,0 +1,88 @@
+label{
+  color: white;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(64, 64, 64);
+}
+header{
+  background-color: rgb(34, 34, 34);
+  -webkit-box-shadow: 10px 14px 38px 0px rgb(147, 213, 255);
+  -moz-box-shadow: 10px 14px 38px 0px rgb(147, 213, 255);
+  box-shadow: 10px 14px 38px 0px rgb(147, 213, 255);
+}
+h1{
+  color: rgb(176, 209, 51);
+}
+
+.contenido{
+  margin-top: 80px;
+  right:  10px;
+  background-color: #333;
+  -webkit-box-shadow: 0px 13px 83px -2px rgb(147, 213, 255);
+  -moz-box-shadow: 0px 13px 83px -2px rgb(147, 213, 255);
+  box-shadow: 0px 13px 83px -2px rgb(147, 213, 255);
+}
+
+/* Barra de Navegacion del Panel de control */
+@media (min-width: 768px) {
+
+  ul {
+    border-left: rgb(147, 213, 255) solid 1px;
+
+  }
+
+  .navbar{
+    left: 0;
+    height: 835px;
+    width: 210px;
+    position: fixed;
+    font-size: 20px;
+
+  }
+  /*Titulo Menu */
+  .navbar-inverse .navbar-brand {
+    border-radius: 25px;
+    width: 190px;
+    color: #b0d133;
+    text-align: center;
+    font-size: 30px;
+    -webkit-box-shadow: inset 0px -16px 83px -15px rgba(255,89,236,0.65);
+    -moz-box-shadow: inset 0px -16px 83px -15px rgba(255,89,236,0.65);
+    box-shadow: inset 0px -16px 83px -15px rgba(255,89,236,0.65);
+  }
+  .navbar-inverse .navbar-nav>li>a:focus {
+    color: #a0f03b;
+    background-color: transparent;
+  }
+  .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+    color: #e24cf5;
+    background-color: transparent;
+  }
+  /*Color de la letra de la barra de navegacion*/
+  .navbar-inverse .navbar-nav>li>a {
+    color: #ef5ba1;
+  }
+  .navbar li a {
+    padding-right: -105px;;
+  }
+  .navbar li ul{
+    display:none;
+    position: absolute;
+    left:180px;
+    top:0;
+
+  }
+  .dropdown-menu{
+    font-size: 20px;
+
+  }
+
+}
+.table-hover{
+  background-color: #f9f9f9;
+}
+table{
+  width: 100%;
+}
